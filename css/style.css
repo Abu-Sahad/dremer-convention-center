@@ -4,3 +4,21 @@
     text-align: center;
     color: #3F87F5;
 }
+.p-button{
+    padding: 0px 18px 0px 18px;
+    font-family: "Amazon Ember",sans-serif;
+    text-align: center;
+    color: #3F87F5;
+    margin-left: 30px;
+    background-color: #F496D1;
+    border-radius: 10px;
+}
+.package{
+    margin-top: 100px;
+}
+.sp-package{
+    margin-top: -40px;
+}
+.badge{
+    margin-bottom: -5px;
+}
