@@ -1,4 +1,6 @@
-
+/* ----------
+google font
+------------ */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
@@ -28,7 +30,7 @@ body{
 .sp-package{
     margin-top: -40px;
 }
-@media (max-width: 992px){
+@media (max-width:768px){
 .carousel-img {
     width: 100%;
     height: 400px;
@@ -37,4 +39,6 @@ body{
     object-fit: cover;
 }
 }
+
+
 
